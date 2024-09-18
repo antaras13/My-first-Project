@@ -1,2 +1,3 @@
-# My-first-Project
-My first github project
+# Analysis of Covid Lockdown Measures
+# About the Project
+The project aimed to analyze the relationship between daily confirmed cases and various lockdown measures using correlation analysis. Here, I Conducted an in-depth analysis of the relationship between daily confirmed Covid-19 cases and various lockdown measures using correlation analysis. The study uncovered a strong positive correlation (up to 96.8%) between case numbers and factors such as reporting frequency, while demonstrating a negative correlation (up to -66%) in measures like social distancing and event cancellations, highlighting their effectiveness in reducing transmission rates.
